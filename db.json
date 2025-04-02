@@ -1,0 +1,32 @@
+{
+  "course": [
+    {
+      "id": "c01",
+      "courseName": "FULL STACK JAVA ",
+      "courseType": "FULL DAY",
+      "courseDuration": "6 months",
+      "courseFees": "80000"
+    },
+    {
+      "id": "c02",
+      "courseName": "PYTHON",
+      "courseType": "REGULAR",
+      "courseDuration": "5 months",
+      "courseFees": "30000"
+    },
+    {
+      "id": "c03",
+      "courseName": "AWS+DeVops",
+      "courseType": "REGULAR",
+      "courseDuration": "5 months",
+      "courseFees": "45000"
+    },
+    {
+      "id": "c04",
+      "courseName": "AWS+DeVops+Testing",
+      "courseType": "HALF DAY",
+      "courseDuration": "12 months",
+      "courseFees": "78000"
+    }
+  ]
+}
